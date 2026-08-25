@@ -1,38 +1,38 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://luiski.x02.me/i/SenalColombia.png",Señal Colombia
+#EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/SenalColombia.png",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://luiski.x02.me/i/CanalInstitucional.png",Canal Institucional
+#EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CanalInstitucional.png",Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://luiski.x02.me/i/Telepasto.png",Telepasto
+#EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Telepasto.png",Telepasto
 https://tokenpanel.ddns.net/get-link/telepastobrowse.m3u8
-#EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://luiski.x02.me/i/ZOOMTV.png",ZOOM TV
+#EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/ZOOMTV.png",ZOOM TV
 https://cast-zoomtv.vdatacenter.io:19360/streaming1/streaming1.m3u8
-#EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://luiski.x02.me/i/CNCTulua.png",CNC Tuluá
+#EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CNCTulua.png",CNC Tuluá
 https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8
-#EXTINF:-1 tvg-country="EC" group-title="Ecuador" tvg-logo="https://luiski.x02.me/i/TVC.png",TVC
+#EXTINF:-1 tvg-country="EC" group-title="Ecuador" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TVC.png",TVC
 https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8
-#EXTINF:-1 tvg-country="EC" group-title="Ecuador" tvg-logo="https://luiski.x02.me/i/RTS.png",RTS
+#EXTINF:-1 tvg-country="EC" group-title="Ecuador" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/RTS.png",RTS
 https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8
-#EXTINF:-1 tvg-country="EC" group-title="Ecuador" tvg-logo="https://luiski.x02.me/i/EcuadorTV.png",Ecuador TV
+#EXTINF:-1 tvg-country="EC" group-title="Ecuador" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/EcuadorTV.png",Ecuador TV
 https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
-#EXTINF:-1 tvg-country="EC" group-title="Ecuador" tvg-logo="https://luiski.x02.me/i/RTU.png",RTU
+#EXTINF:-1 tvg-country="EC" group-title="Ecuador" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/RTU.png",RTU
 https://rtu.video.makrodigital.com/rtu/rtu/playlist.m3u8
-#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://luiski.x02.me/i/DaystarEspanol.png",Daystar Español
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/DaystarEspanol.png",Daystar Español
 https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
-#EXTINF:-1 tvg-country="GT" group-title="Guatemala" tvg-logo="https://luiski.x02.me/i/Guatevision.png",Guatevision
+#EXTINF:-1 tvg-country="GT" group-title="Guatemala" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Guatevision.png",Guatevision
 https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
-#EXTINF:-1 tvg-country="HN" group-title="Honduras" tvg-logo="https://luiski.x02.me/i/Canal11.png",Canal 11
+#EXTINF:-1 tvg-country="HN" group-title="Honduras" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Canal11.png",Canal 11
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="PR" group-title="Puerto Rico" tvg-logo="https://luiski.x02.me/i/TeleOnce.png",TeleOnce
+#EXTINF:-1 tvg-country="PR" group-title="Puerto Rico" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TeleOnce.png",TeleOnce
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-country="PR" group-title="Puerto Rico" tvg-logo="https://luiski.x02.me/i/MegaTV.png",Mega TV
+#EXTINF:-1 tvg-country="PR" group-title="Puerto Rico" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/MegaTV.png",Mega TV
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
-#EXTINF:-1 tvg-country="RD" group-title="República Dominicana" tvg-logo="https://luiski.x02.me/i/Antena7.png",Antena 7
+#EXTINF:-1 tvg-country="RD" group-title="República Dominicana" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Antena7.png",Antena 7
 https://d3gie3ig6argu.cloudfront.net/ts:abr.m3u8
-#EXTINF:-1 tvg-country="RD" group-title="República Dominicana" tvg-logo="https://luiski.x02.me/i/Canal21.png",Canal 21
+#EXTINF:-1 tvg-country="RD" group-title="República Dominicana" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Canal21.png",Canal 21
 https://d1ypfac91iuc9g.cloudfront.net/ts:abr.m3u8
-#EXTINF:-1 tvg-country="CN" group-title="China" tvg-logo="https://luiski.x02.me/i/CGTNEspanol.png",CGTN Español
+#EXTINF:-1 tvg-country="CN" group-title="China" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CGTNEspanol.png",CGTN Español
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
-#EXTINF:-1 tvg-country="CN" group-title="China" tvg-logo="https://luiski.x02.me/i/CCTV-4.png",CCTV-4
+#EXTINF:-1 tvg-country="CN" group-title="China" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CCTV-4.png",CCTV-4
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
