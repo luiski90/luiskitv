@@ -64,7 +64,7 @@ http://159.203.148.226/live/farra.m3u8
 https://copacotf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-country="PY" group-title="Paraguay" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/MEGATV.png",MEGA TV
 https://www.desde-paraguay.com/mega.m3u8
-#EXTINF:-1 tvg-country="PY" group-title="Paraguay" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/nanduti.png",Ñanduti
+#EXTINF:-1 tvg-country="PY" group-title="Paraguay" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Nanduti.png",Ñanduti
 https://nanduti.b-cdn.net/Source.m3u8
 #EXTINF:-1 tvg-country="PY" group-title="Paraguay" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/NPY.png",NPY
 https://copacogen.desdeparaguay.net/npy/npy_py_baja/playlist.m3u8?admin=tvaccion
