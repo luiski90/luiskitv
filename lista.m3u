@@ -1,9 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-country="DE" group-title="Alemania" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/DWEspanol.png",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1 tvg-country="CN" group-title="China" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CGTNEspanol.png",CGTN Español
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
+#EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/BluRadio.png",Blu Radio
+https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
+#EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/LaKalle.png",La Kalle
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 #EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/SenalColombia.png",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CanalInstitucional.png",Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/AlertaBogota.png",Alerta Bogotá
+https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8
+#EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CanalCapital.png",Canal Capital
+https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
+#EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Eureka.png",Eureka
+https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
 #EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Telepasto.png",Telepasto
 https://tokenpanel.ddns.net/get-link/telepastobrowse.m3u8
 #EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/ZOOMTV.png",ZOOM TV
@@ -20,19 +34,75 @@ https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 https://rtu.video.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/DaystarEspanol.png",Daystar Español
 https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/NewsmaxTV.png",Newsmax TV
+https://n1ctsota.akamaized.net/hls/live/2113880/Live_1/index.m3u8
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Newsmax2.png",Newsmax2
+https://n2ctsota.akamaized.net/hls/live/2113130/Live_1/index.m3u8
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/NewsmaxEspanol.png",Newsmax Español
+https://n1ottes.akamaized.net/hls/live/2113795/Live_1/index.m3u8
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/WorldatWar.png",World at War
+https://linear-927.frequency.stream/dist/newsmax/927/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-country="FR" group-title="Francia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/EuronewsEspanol.png",Euronews Español
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
 #EXTINF:-1 tvg-country="GT" group-title="Guatemala" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Guatevision.png",Guatevision
 https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
 #EXTINF:-1 tvg-country="HN" group-title="Honduras" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Canal11.png",Canal 11
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="IR" group-title="Irán" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/HispanTV.png",HispanTV
+https://live.presstv.ir/hls/hispantv.m3u8
+#EXTINF:-1 tvg-country="IR" group-title="Irán" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/PressTV.png",PressTV
+https://live.presstv.co.uk/hls/presstv.m3u8
+#EXTINF:-1 tvg-country="PA" group-title="Panamá" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/NEXTV.png",NEX TV
+https://movil.ejeserver.com/live/nextv.m3u8
+#EXTINF:-1 tvg-country="PY" group-title="Paraguay" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/C9N.png",C9N
+https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
+#EXTINF:-1 tvg-country="PY" group-title="Paraguay" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/SNT.png",SNT
+https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-country="PY" group-title="Paraguay" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/FarraPlay.png",Farra Play
+http://159.203.148.226/live/farra.m3u8
+#EXTINF:-1 tvg-country="PY" group-title="Paraguay" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Latele.png",Latele
+https://copacotf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-country="PY" group-title="Paraguay" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/MEGATV.png",MEGA TV
+https://www.desde-paraguay.com/mega.m3u8
+#EXTINF:-1 tvg-country="PY" group-title="Paraguay" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/nanduti.png",Ñanduti
+https://nanduti.b-cdn.net/Source.m3u8
+#EXTINF:-1 tvg-country="PY" group-title="Paraguay" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/NPY.png",NPY
+https://copacogen.desdeparaguay.net/npy/npy_py_baja/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-country="PY" group-title="Paraguay" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/RCCTV.png",RCC TV
+https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-country="PY" group-title="Paraguay" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Telefuturo.png",Telefuturo
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8
+#EXTINF:-1 tvg-country="PY" group-title="Paraguay" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/VenusMedia.png",Venus Media
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+#EXTINF:-1 tvg-country="PY" group-title="Paraguay" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TVChaquena.png",TV Chaqueña
+https://copacoradios.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-country="PE" group-title="Perú" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/ATV.png",ATV
+https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-country="PE" group-title="Perú" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/ATVPlus.png",ATV+
+https://d26l0c7cli5gzs.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-country="PE" group-title="Perú" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/ATVSur.png",ATV Sur
+https://dnhmqt6n0lkaq.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-country="PE" group-title="Perú" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TVPeru.png",TVPerú
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+#EXTINF:-1 tvg-country="PE" group-title="Perú" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TVPeruNoticias.png",TVPerú Noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
+#EXTINF:-1 tvg-country="PE" group-title="Perú" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TVPeruInternacional.png",TVPerú Internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
+#EXTINF:-1 tvg-country="PE" group-title="Perú" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/ExitosaTV.png",Exitosa TV
+https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 #EXTINF:-1 tvg-country="PR" group-title="Puerto Rico" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TeleOnce.png",TeleOnce
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-country="PR" group-title="Puerto Rico" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/MegaTV.png",Mega TV
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
+#EXTINF:-1 tvg-country="PR" group-title="Puerto Rico" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TelemundoPR.png",Telemundo Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-country="PR" group-title="Puerto Rico" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Punto2.png",Punto 2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-country="PR" group-title="Puerto Rico" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/WIPRTV.png",WIPR TV
+https://streamwipr.pr/hls/stream/index.m3u8
 #EXTINF:-1 tvg-country="RD" group-title="República Dominicana" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Antena7.png",Antena 7
 https://d3gie3ig6argu.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-country="RD" group-title="República Dominicana" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Canal21.png",Canal 21
 https://d1ypfac91iuc9g.cloudfront.net/ts:abr.m3u8
-#EXTINF:-1 tvg-country="CN" group-title="China" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CGTNEspanol.png",CGTN Español
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
-#EXTINF:-1 tvg-country="CN" group-title="China" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CCTV-4.png",CCTV-4
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 tvg-country="RU" group-title="Rusia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/RTEspanol.png",RT Español
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
