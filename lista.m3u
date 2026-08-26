@@ -4,6 +4,8 @@
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-country="CN" group-title="China" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CGTNEspanol.png",CGTN Español
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
+#EXTINF:-1 tvg-country="CN" group-title="China" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CCTV-4.png",CCTV-4
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/BluRadio.png",Blu Radio
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 #EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/LaKalle.png",La Kalle
