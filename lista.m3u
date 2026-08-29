@@ -4,7 +4,7 @@
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-country="AU" group-title="Australia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/ABCNewsAustralia.png",ABC News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
-#EXTINF:-1 tvg-country="BR" group-title="Brasil" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/RedeVida.png",RedeVida
+#EXTINF:-1 tvg-country="BR" group-title="Brasil" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/RedeVida.png",Redevida
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 #EXTINF:-1 tvg-country="DE" group-title="Alemania" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/DWEspanol.png",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
@@ -480,6 +480,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1 tvg-country="PR" group-title="Puerto Rico" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/WIPRTV.png",WIPR TV
 https://streamwipr.pr/hls/stream/index.m3u8
+#EXTINF:-1 tvg-country="PR" group-title="Puerto Rico" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/AmericaTeVe.png",América TeVé https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 tvg-country="RD" group-title="República Dominicana" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Antena7.png",Antena 7
 https://d3gie3ig6argu.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-country="RD" group-title="República Dominicana" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Canal21.png",Canal 21
