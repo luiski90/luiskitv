@@ -264,7 +264,7 @@ https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-country="ES" group-title="España" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/La2.png",La 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
-#EXTINF:-1 tvg-country="ES" group-title="España" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/ElToroTV.png",El Toro TV - España
+#EXTINF:-1 tvg-country="ES" group-title="España" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/ElToroTV.png",El Toro TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-country="ES" group-title="España" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TRECE.png",TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
