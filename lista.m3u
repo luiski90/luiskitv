@@ -336,9 +336,9 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TelemundoAccion.png",Telemundo Acción
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TelemundoAlDia.png"Telemundo Al Día
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TelemundoAlDia.png",Telemundo Al Día
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_channelId=88814573
-#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TelemundoAlDia.png"Telemundo Al Día (Opc-2)
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TelemundoAlDia.png",Telemundo Al Día (Opc-2)
 https://d1kq7q3vteqjb.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TelemundoCorpusChristi.png",Telemundo Corpus Christi
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
@@ -350,29 +350,31 @@ https://jmp2.uk/plu-65790feacbd0d60008fac87a.m3u8
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TelemundoTelenovelasClasicas.png",Telemundo Telenovelas Clásicas
 https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
-#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Novelas.png",Pluto TV Novelas
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Novelas.png",Pluto TV - Novelas
 https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
-#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Novelas2.png",Pluto TV Novelas 2
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Novelas2.png",Pluto TV - Novelas
 https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
-#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Novelas3.png",Pluto TV Novelas 3
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Novelas3.png",Pluto TV - Novelas
 https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8
-#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/NovelasMexico.png",Pluto TV Novelas México
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/NovelasMexico.png",Pluto TV - Novelas México
 https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
-#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/NovelasdeOtrosContinentes.png",Pluto TV Novelas de Otros Continentes
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/NovelasdeOtrosContinentes.png",Pluto TV - Novelas de Otros Continentes
 https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
-#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/NovelasVenezuela.png",Pluto TV Novelas Venezuela
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/NovelasVenezuela.png",Pluto TV - Novelas Venezuela
 https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
-#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TelenovelasClasicas.png",Pluto TV Telenovelas Clásicas
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TelenovelasClasicas.png",Pluto TV - Telenovelas Clásicas
 https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TelevisaTelenovelaChannel.png",Televisa Telenovela Channel
+https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TelevisaTelenovelas.png",Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TodoNovelas.png",Todo Novelas
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
-#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/ALaMexicana.png",Pluto TV A La Mexicana
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/ALaMexicana.png",Pluto TV - A La Mexicana
 https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
-#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/AmoryMentiras.png",Pluto TV Amor y Mentiras
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/AmoryMentiras.png",Pluto TV - Amor y Mentiras
 https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8
-#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Animales.png",Pluto TV Animales
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Animales.png",Pluto TV - Animales
 https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
 #EXTINF:-1 tvg-country="FR" group-title="Francia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/EuronewsEspanol.png",Euronews Español
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
