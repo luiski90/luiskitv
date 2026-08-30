@@ -2,12 +2,22 @@
 
 #EXTINF:-1 tvg-country="AR" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/GarageTV.png",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-country="AR" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Canal26AR.png",Canal 26
+https://g4.mc-hor.transport.edge-access.net/a05/ngrp:canal26-100188_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-country="AR" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/A24.png",A24
+https://g3.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-country="AR" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TVPublica.png",TV Pública
+https://g2.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+#EXTINF:-1 tvg-country="AR" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Canal7Neuquen.png",Canal 7 Neuquén
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 tvg-country="AU" group-title="Australia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/ABCNewsAustralia.png",ABC News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 #EXTINF:-1 tvg-country="BR" group-title="Brasil" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/RedeVida.png",RedeVida
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 #EXTINF:-1 tvg-country="DE" group-title="Alemania" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/DWEspanol.png",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1 tvg-country="CL" group-title="Chile" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CanalTV8Concepcion.png",Canal TV8 Concepción
+https://panel.tvstream.cl:1936/sdaumqtfqf/sdaumqtfqf/playlist.m3u8
 #EXTINF:-1 tvg-country="CN" group-title="China" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CGTNEspanol.png",CGTN Español
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 #EXTINF:-1 tvg-country="CN" group-title="China" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CCTV-4.png",CCTV-4
@@ -252,6 +262,8 @@ https://rtu.video.makrodigital.com/rtu/rtu/playlist.m3u8
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:-1 tvg-country="EC" group-title="Ecuador" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/OromarTV.png",Oromar TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-country="EC" group-title="Ecuador" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/NortvisionTV.png",Nortvision TV
+https://server.asilivehd.com/live/nortvisi.m3u8
 #EXTINF:-1 tvg-country="ES" group-title="España" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/SolMusica.png",Sol Música
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-country="ES" group-title="España" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/ActivaTV.png",Activa TV
@@ -288,6 +300,10 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 #EXTINF:-1 tvg-country="ES" group-title="España" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/StarTVEEuropa.png",Star TVE Europa
 https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
+#EXTINF:-1 tvg-country="ES" group-title="España" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/GaliciaTVEuropa.png",Galicia TV Europa
+https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
+#EXTINF:-1 tvg-country="ES" group-title="España" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TopBarca.png",Top Barça
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
 #EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/DaystarEspanol.png",Daystar Español
 https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
 #EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/NewsmaxTV.png",Newsmax TV
@@ -376,8 +392,48 @@ https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
 https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8
 #EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Animales.png",Pluto TV - Animales
 https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Canal57US.png",Canal 57
+https://stream-167790.castr.net/6189746bccf0424c112f5476/live_109148e0970a11f1ad071d31717a2cac/index.fmp4.m3u8
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TennisChannel.png",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TennisChannel2.png",Tennis Channel 2
+https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-lgus/playlist.m3u8
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/RallyTV.png",Rally TV
+https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/FIFAPlus.png",FIFA +
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/MMATV.png",MMA TV
+https://amg00218-wptenterprises-amg00218c2-sportstribal-emea-1901.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertourespanol-sportstribalemea/playlist.m3u8
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/HardKnocks.png",Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribalV2/121.m3u8
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/FightNetwork.png",Fight Network
+https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/UnitedFightAlliance.png",United Fight Alliance
+https://9ab4bcc639c845d2b682105f4e9afbf8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_UnitedFightAlliance/playlist.m3u8
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Glory.png",Glory
+https://6ada88b3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TNA.png",TNA
+https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-country="US" group-title="Estados Unidos" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/PLF.png",PFL
+https://d856dff4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-country="FR" group-title="Francia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/EuronewsEspanol.png",Euronews Español
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
+#EXTINF:-1 tvg-country="FR" group-title="Francia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/France24Espanol.png",France 24 Español [HD]
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-country="FR" group-title="Francia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/France24Espanol.png",France 24 Español [SD]
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-country="FR" group-title="Francia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/France24Espanol.png",France 24 Español [Baja]
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-country="FR" group-title="Francia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/France24English.png",France 24 English [HD]
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-country="FR" group-title="Francia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/France24English.png",France 24 English [SD]
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-country="FR" group-title="Francia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/France24English.png",France 24 English [Baja]
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-country="FR" group-title="Francia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/France24Fast.png",France 24 Fast English
+https://amg00106-france24-france24-samsungspain-n4tez.amagi.tv/playlist/amg00106-france24-france24-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-country="FR" group-title="Francia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/LaChaineLEquipe.png",La Chaine L'Equipe
+https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 #EXTINF:-1 tvg-country="GT" group-title="Guatemala" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Guatevision.png",Guatevision
 https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
 #EXTINF:-1 tvg-country="HN" group-title="Honduras" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Canal11.png",Canal 11
@@ -412,8 +468,18 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://5fe2654d6127d.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 #EXTINF:-1 tvg-country="MX" group-title="México" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/MariaVision.png",Maria Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 tvg-country="MX" group-title="México" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CanalCatorce.png",Canal Catorce
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
+#EXTINF:-1 tvg-country="MX" group-title="México" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Canal44MX.png",Canal 44
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
+#EXTINF:-1 tvg-country="MX" group-title="México" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Canal66MX.png",Canal 66
+https://5ca3e84a76d30.streamlock.net/canal66/videocanal66/playlist.m3u8
+#EXTINF:-1 tvg-country="MX" group-title="México" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/LuchaPlus.png",Lucha Plus
+https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-country="NI" group-title="Nicaragua" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/WTV.png",WTV
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1 tvg-country="NI" group-title="Nicaragua" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CanalTN8.png",Canal TN8
+https://streamingcws30.com/tn8/videotn8/playlist.m3u8
 #EXTINF:-1 tvg-country="PA" group-title="Panamá" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/NEXTV.png",NEX TV
 https://movil.ejeserver.com/live/nextv.m3u8
 #EXTINF:-1 tvg-country="PA" group-title="Panamá" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/VisionLatina.png",Visión Latina
