@@ -586,5 +586,5 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8
 #EXTINF:-1 tvg-country="VE" group-title="Venezuela" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Globovision.png",Globovisión
 https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
-#EXTINF:-1 tvg-country="VE" group-title="Venezuela" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Venevision.png",Venevisión
+#EXTINF:-1 tvg-country="VE" group-title="Venezuela" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Venevision.png",Venevisión Internacional
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
