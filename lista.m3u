@@ -549,7 +549,7 @@ https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="PE" group-title="Perú" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/LatinaClasicos.png",Latina Clásicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="PE" group-title="Peru" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/LatinaPodcast.png",Latina Podcast
+#EXTINF:-1 tvg-country="PE" group-title="Perú" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/LatinaPodcast.png",Latina Podcast
 https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="PE" group-title="Perú" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CanalIpe.png",Canal Ipe
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
