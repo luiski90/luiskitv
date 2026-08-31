@@ -541,19 +541,19 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 #EXTINF:-1 tvg-country="PE" group-title="Perú" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/ExitosaTV.png",Exitosa TV
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
-#EXTINF:-1 tvg-country="PE" group-title="PERÚ" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Latina.png",Latina
+#EXTINF:-1 tvg-country="PE" group-title="Perú" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Latina.png",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="PE" group-title="PERÚ" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Latina.png",Latina (Opc-2)
+#EXTINF:-1 tvg-country="PE" group-title="Perú" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Latina.png",Latina (Opc-2)
 https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
-#EXTINF:-1 tvg-country="PE" group-title="PERÚ" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/LatinaNoticias.png",Latina Noticias
+#EXTINF:-1 tvg-country="PE" group-title="Perú" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/LatinaNoticias.png",Latina Noticias
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="PE" group-title="PERÚ" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/LatinaClasicos.png",Latina Clásicos
+#EXTINF:-1 tvg-country="PE" group-title="Perú" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/LatinaClasicos.png",Latina Clásicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="PE" group-title="PERÚ" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/LatinaPodcast.png",Latina Podcast
+#EXTINF:-1 tvg-country="PE" group-title="Peru" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/LatinaPodcast.png",Latina Podcast
 https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="PE" group-title="PERÚ" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CanalIpe.png",Canal Ipe
+#EXTINF:-1 tvg-country="PE" group-title="Perú" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CanalIpe.png",Canal Ipe
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
-#EXTINF:-1 tvg-country="PE" group-title="PERÚ" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CosmosTV.png",Cosmos TV
+#EXTINF:-1 tvg-country="PE" group-title="Perú" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CosmosTV.png",Cosmos TV
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 #EXTINF:-1 tvg-country="PE" group-title="Perú" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/BethelTV.png",Bethel TV
 https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
