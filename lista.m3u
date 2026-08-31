@@ -251,6 +251,10 @@ https://tvlatina.live:1936/8025/8025/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8
 #EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/TVFlorencia.png",TV Florencia
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+#EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Cablenoticias.png",Cablenoticias
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:-1 tvg-country="CO" group-title="Colombia" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/CanalATVColombia.png",Canal ATVColombia
+https://co.ejeserver.com/live/atvcol.m3u8
 #EXTINF:-1 tvg-country="KR" group-title="Corea del Sur" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/ArirangTV.png",Arirang TV
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="CR" group-title="Costa Rica" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Canal8Multimedios.png",Canal 8 Multimedios
