@@ -259,7 +259,7 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 tvg-country="CR" group-title="Costa Rica" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Enlace.png",Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="CR" group-title="Costa Rica" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/EnlaceTV.png",#EXTINF:-1 tvg-country="CR" group-title="Costa Rica" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/EJTV.png",Enlace Juvenil
+#EXTINF:-1 tvg-country="CR" group-title="Costa Rica" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/EJTV.png",Enlace Juvenil
 https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="CR" group-title="Costa Rica" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/AgrotendenciaTV.png",Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
@@ -567,7 +567,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1 tvg-country="PR" group-title="Puerto Rico" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/WIPRTV.png",WIPR TV
 https://streamwipr.pr/hls/stream/index.m3u8
-#EXTINF:-1 tvg-country="PR" group-title="Puerto Rico" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/AmericaTeVe.png",América TeVé https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:-1 tvg-country="PR" group-title="Puerto Rico" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/AmericaTeVe.png",América TeVé
+https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 tvg-country="RD" group-title="República Dominicana" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Antena7.png",Antena 7
 https://d3gie3ig6argu.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-country="RD" group-title="República Dominicana" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Canal21.png",Canal 21
@@ -586,5 +587,5 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8
 #EXTINF:-1 tvg-country="VE" group-title="Venezuela" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Globovision.png",Globovisión
 https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
-#EXTINF:-1 tvg-country="VE" group-title="Venezuela" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/Venevision.png",Venevisión Internacional
+#EXTINF:-1 tvg-country="VE" group-title="Venezuela" tvg-logo="https://raw.githubusercontent.com/luiski90/luiskitv/refs/heads/main/logos/VenevisionInternacional.png",Venevisión Internacional
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
